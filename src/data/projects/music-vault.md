@@ -1,7 +1,7 @@
 ---
-title: Markdown Test Page
-publishDate: 01 Dec 2021
-description: A sample page with the most common elements of an article, including headings, paragraphs, lists, and images. Use it as a starting point for applying your own styles.
+title: Music Vault
+publishDate: 21 Oct 2023
+description: A comprehensive app for music lovers to log their vinyl collections, view streaming stats, and connect with others with similar taste.
 ---
 
 ![Illustration of woman using a computer receiving likes](/assets/blog/casual-life-3d-likes.webp)
